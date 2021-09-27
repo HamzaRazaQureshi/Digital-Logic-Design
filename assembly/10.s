@@ -14,3 +14,5 @@ ELSE:
 add t3,t2,t4
 
 bne t0,t1 LOOP
+
+bne t0,t1 LOOP
